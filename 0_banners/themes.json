@@ -4,37 +4,37 @@
 		{
 			"themeName": "GX S8 Icons",
 			"packageName": "craftsicons.iconpack.gx.s8",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P6_GX S8.png",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P6_GX S8_ad.png",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
 			"themeName": "Gold Pro Icon Pack",
 			"packageName": "craftsicons.iconpack.a1.gold",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P1_Gold.png",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P1_Gold_ad.png",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
 			"themeName": "Material Dream",
 			"packageName": "craftsicons.iconpack.material.dream",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P4_MaterialDream.png",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P4_MaterialDream_ad.png",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
 			"themeName": "Enamel Icons",
 			"packageName": "craftsicons.iconpack.enamel.icons",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P8_Enamel 0927.jpg",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P8_Enamel 0927_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
 			"themeName": "Vigour Icons",
 			"packageName": "craftsicons.iconpack.vigour.icons",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P7_Vigour.jpg",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P7_Vigour_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
 			"themeName": "Peace World Icons",
 			"packageName": "craftsicons.iconpack.peaceworld",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P4_PeaceWorld.jpg",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/niconpack/master/0_banners/P4_PeaceWorld_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		}
 	]
